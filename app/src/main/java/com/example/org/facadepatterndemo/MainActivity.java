@@ -31,9 +31,4 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-
-   /* @OnClick(R.id.btnMakePayment)
-    public void makePayment(View view){
-
-    }*/
 }
