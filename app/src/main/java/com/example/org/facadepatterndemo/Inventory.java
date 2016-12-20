@@ -1,6 +1,7 @@
 package com.example.org.facadepatterndemo;
 
 /**
+ * Check inventory
  * Created by swati on 20/12/16.
  */
 
